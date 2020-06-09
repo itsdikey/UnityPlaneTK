@@ -1,0 +1,19 @@
+Main Motor PWM - pin 2
+Tail PWM - pin 3
+Left PWM - pin 4
+Right PWM - pin 5
+
+GPS 
+   TX - pin 0
+   RX - pin 1
+
+Altimeter, Temperature, Accelerometer, Gyroscope
+           SDA - pin 18
+           SCL - pin 19
+
+RADIO MODULE
+           MISO - 12
+           MOSI - 11
+           SCK - 13
+           CS - 8
+           CE - 9
